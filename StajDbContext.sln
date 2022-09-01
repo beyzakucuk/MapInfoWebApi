@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StajDbContext", "StajDbContext\StajDbContext.csproj", "{2C334D05-AC16-453F-A0D5-FD28B2204BD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Location.Data", "Location.Data\Location.Data.csproj", "{65D75DFC-2C22-45F4-B282-89E782FC5A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C334D05-AC16-453F-A0D5-FD28B2204BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C334D05-AC16-453F-A0D5-FD28B2204BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C334D05-AC16-453F-A0D5-FD28B2204BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C334D05-AC16-453F-A0D5-FD28B2204BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D75DFC-2C22-45F4-B282-89E782FC5A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D75DFC-2C22-45F4-B282-89E782FC5A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D75DFC-2C22-45F4-B282-89E782FC5A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D75DFC-2C22-45F4-B282-89E782FC5A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E4B739-2A42-4842-A2C0-60CE5091D912}
+	EndGlobalSection
+EndGlobal

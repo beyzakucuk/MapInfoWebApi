@@ -1,0 +1,14 @@
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\bin\Debug\net6.0\Location.Data.deps.json
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\bin\Debug\net6.0\Location.Data.runtimeconfig.json
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\bin\Debug\net6.0\Location.Data.dll
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\bin\Debug\net6.0\Location.Data.pdb
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.csproj.AssemblyReference.cache
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.AssemblyInfoInputs.cache
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.AssemblyInfo.cs
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.dll
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\refint\Location.Data.dll
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.pdb
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\Location.Data.genruntimeconfig.cache
+C:\Users\beyza\source\repos\StajDbContext\Location.Data\obj\Debug\net6.0\ref\Location.Data.dll
